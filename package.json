@@ -1,17 +1,17 @@
 {
   "name": "text-slicer",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Create word and grapheme-level DOM hooks from plain text for animation and styling.",
-  "author": "ux-ui.pro",
+  "author": "Maxim <m@nilmuse.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ux-ui-pro/text-slicer.git"
+    "url": "git+https://github.com/nilmuse/text-slicer.git"
   },
   "bugs": {
-    "url": "https://github.com/ux-ui-pro/text-slicer/issues"
+    "url": "https://github.com/nilmuse/text-slicer/issues"
   },
-  "homepage": "https://github.com/ux-ui-pro/text-slicer",
+  "homepage": "https://github.com/nilmuse/text-slicer",
   "sideEffects": false,
   "type": "module",
   "packageManager": "npm@10.9.3",
