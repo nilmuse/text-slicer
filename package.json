@@ -1,6 +1,6 @@
 {
   "name": "text-slicer",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Create word and grapheme-level DOM hooks from plain text for animation and styling.",
   "author": "Maxim <m@nilmuse.com>",
   "license": "MIT",
